@@ -1,0 +1,32 @@
+1st step (Modules):
+download the Given module:
+	pyautogui
+	os
+	time
+	cv2
+	win32gui
+	win32con
+	mkdir
+2nd step:(HOw to download):
+
+Open cmd by clicking windows button
+
+pyautogui :  pip install pyautogui
+os: (os is already installed) if it is not installed then try:
+					pip install os
+time: pip install time
+
+cv2: pip install opencv-py (If you are Getting error like cv 2 not downloading go to module folder then click     shift + right click           then select  open pwoershell windows here then pip install op  1st click tab button then click enter.IF YOU ARE GETTING ERROR IN ANY MODULETHEN DO THIS  JUST PUT THE STARTER 2 WORDS THEN TAB THEN ENTER)
+
+Some modules i have given and some are in website 
+
+
+
+
+
+website link:    https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+
+step 3:
+
+enjoy:
